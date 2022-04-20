@@ -1,0 +1,3 @@
+// set up local variables
+set VAR_NAME   ----  for windows
+export VAR_NAME  ----- for linux/mac
